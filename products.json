@@ -9,6 +9,231 @@
 			"product_code": "BD20231011",
 			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
 			"purchase_price": 1600,
+			"price": 17000,
+			"member_price": 1800,
+			"stock": 100,
+			"discount": null,
+			"thumbnail": {
+				"url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+				"type": "image/png"
+			},
+			"category": [
+				{
+					"name": "electronic",
+					"slug": "electronic"
+				},
+				{
+					"name": "gaming",
+					"slug": "gaming"
+				}
+			]
+		},
+		{
+			"title": "laptop",
+			"slug": "laptop",
+			"product_code": "BD20231011",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+			"purchase_price": 1600,
+			"price": 4000,
+			"member_price": 1800,
+			"stock": 100,
+			"discount": 10,
+			"thumbnail": {
+				"url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+				"type": "image/png"
+			},
+			"category": [
+				{
+					"name": "electronic",
+					"slug": "electronic"
+				},
+				{
+					"name": "gaming",
+					"slug": "gaming"
+				}
+			]
+		},
+		{
+			"title": "laptop",
+			"slug": "laptop",
+			"product_code": "BD20231011",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+			"purchase_price": 1600,
+			"price": 2000,
+			"member_price": 1800,
+			"stock": 100,
+			"discount": null,
+			"thumbnail": {
+				"url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+				"type": "image/png"
+			},
+			"category": [
+				{
+					"name": "electronic",
+					"slug": "electronic"
+				},
+				{
+					"name": "gaming",
+					"slug": "gaming"
+				}
+			]
+		},
+		{
+			"title": "laptop",
+			"slug": "laptop",
+			"product_code": "BD20231011",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+			"purchase_price": 1600,
+			"price": 5000,
+			"member_price": 1800,
+			"stock": 100,
+			"discount": null,
+			"thumbnail": {
+				"url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+				"type": "image/png"
+			},
+			"category": [
+				{
+					"name": "electronic",
+					"slug": "electronic"
+				},
+				{
+					"name": "gaming",
+					"slug": "gaming"
+				}
+			]
+		},
+		{
+			"title": "laptop",
+			"slug": "laptop",
+			"product_code": "BD20231011",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+			"purchase_price": 1600,
+			"price": 32000,
+			"member_price": 7000,
+			"stock": 100,
+			"discount": 10,
+			"thumbnail": {
+				"url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+				"type": "image/png"
+			},
+			"category": [
+				{
+					"name": "electronic",
+					"slug": "electronic"
+				},
+				{
+					"name": "gaming",
+					"slug": "gaming"
+				}
+			]
+		},
+		{
+			"title": "laptop",
+			"slug": "laptop",
+			"product_code": "BD20231011",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+			"purchase_price": 1600,
+			"price": 2000,
+			"member_price": 1800,
+			"stock": 100,
+			"discount": null,
+			"thumbnail": {
+				"url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+				"type": "image/png"
+			},
+			"category": [
+				{
+					"name": "electronic",
+					"slug": "electronic"
+				},
+				{
+					"name": "gaming",
+					"slug": "gaming"
+				}
+			]
+		},
+		{
+			"title": "laptop",
+			"slug": "laptop",
+			"product_code": "BD20231011",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+			"purchase_price": 1600,
+			"price": 2000,
+			"member_price": 1800,
+			"stock": 100,
+			"discount": null,
+			"thumbnail": {
+				"url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+				"type": "image/png"
+			},
+			"category": [
+				{
+					"name": "electronic",
+					"slug": "electronic"
+				},
+				{
+					"name": "gaming",
+					"slug": "gaming"
+				}
+			]
+		},
+		{
+			"title": "laptop",
+			"slug": "laptop",
+			"product_code": "BD20231011",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+			"purchase_price": 1600,
+			"price": 2000,
+			"member_price": 1800,
+			"stock": 100,
+			"discount": 10,
+			"thumbnail": {
+				"url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+				"type": "image/png"
+			},
+			"category": [
+				{
+					"name": "electronic",
+					"slug": "electronic"
+				},
+				{
+					"name": "gaming",
+					"slug": "gaming"
+				}
+			]
+		},
+		{
+			"title": "laptop",
+			"slug": "laptop",
+			"product_code": "BD20231011",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+			"purchase_price": 1600,
+			"price": 11000,
+			"member_price": 1800,
+			"stock": 100,
+			"discount": 10,
+			"thumbnail": {
+				"url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+				"type": "image/png"
+			},
+			"category": [
+				{
+					"name": "electronic",
+					"slug": "electronic"
+				},
+				{
+					"name": "gaming",
+					"slug": "gaming"
+				}
+			]
+		},
+		{
+			"title": "laptop",
+			"slug": "laptop",
+			"product_code": "BD20231011",
+			"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+			"purchase_price": 1600,
 			"price": 2000,
 			"member_price": 1800,
 			"stock": 100,
