@@ -30,7 +30,7 @@
 				"type": "image/png"
 			},
 			{
-				"url": "https://file-examples.com/storage/feaade38c1651bd01984236/2017/04/file_example_MP4_480_1_5MG.mp4",
+				"url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
 				"type": "video/mp4"
 			}
 		],
