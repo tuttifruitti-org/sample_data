@@ -30,6 +30,7 @@
 				"type": "image/png"
 			},
 			{
+				"thumbnail":"https://telegra.ph/file/e4669d89fe4b44c8c8f3e.png",
 				"url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
 				"type": "video/mp4"
 			}
